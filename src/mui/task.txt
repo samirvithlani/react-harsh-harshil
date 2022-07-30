@@ -1,0 +1,6 @@
+SLIDER
+Create SLIDER for filter -> product --> marks 1000 to 1500
+CREATE SWITCH    with bgi
+
+SWTCH ON BOX --> Dark -->
+off -> light-->

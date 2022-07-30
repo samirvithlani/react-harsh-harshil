@@ -1,0 +1,1 @@
+export var required = "*filed is required";
